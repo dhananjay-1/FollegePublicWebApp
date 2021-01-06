@@ -1,0 +1,43 @@
+{
+  "files": {
+    "app.js": "/FollegePublicWebApp/static/js/app.1c001bcd.chunk.js",
+    "app.js.map": "/FollegePublicWebApp/static/js/app.1c001bcd.chunk.js.map",
+    "runtime~app.js": "/FollegePublicWebApp/static/js/runtime~app.d7e28aef.js",
+    "runtime~app.js.map": "/FollegePublicWebApp/static/js/runtime~app.d7e28aef.js.map",
+    "static/js/2.8fd0ac2b.chunk.js": "/FollegePublicWebApp/static/js/2.8fd0ac2b.chunk.js",
+    "static/js/2.8fd0ac2b.chunk.js.map": "/FollegePublicWebApp/static/js/2.8fd0ac2b.chunk.js.map",
+    "fonts/AlegreyaSans-Bold.ttf": "/FollegePublicWebApp/./fonts/AlegreyaSans-Bold.ttf",
+    "fonts/AntDesign.ttf": "/FollegePublicWebApp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/FollegePublicWebApp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/FollegePublicWebApp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/FollegePublicWebApp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/FollegePublicWebApp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/FollegePublicWebApp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/FollegePublicWebApp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/FollegePublicWebApp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/FollegePublicWebApp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/FollegePublicWebApp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/FollegePublicWebApp/./fonts/MaterialIcons.ttf",
+    "fonts/Montserrat-SemiBold.ttf": "/FollegePublicWebApp/./fonts/Montserrat-SemiBold.ttf",
+    "fonts/SimpleLineIcons.ttf": "/FollegePublicWebApp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/FollegePublicWebApp/favicon-16.png",
+    "favicon-32.png": "/FollegePublicWebApp/favicon-32.png",
+    "favicon.ico": "/FollegePublicWebApp/favicon.ico",
+    "index.html": "/FollegePublicWebApp/index.html",
+    "manifest.json": "/FollegePublicWebApp/manifest.json",
+    "serve.json": "/FollegePublicWebApp/serve.json",
+    "static/js/2.8fd0ac2b.chunk.js.LICENSE.txt": "/FollegePublicWebApp/static/js/2.8fd0ac2b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/FollegePublicWebApp/static/media/1.e23c4a74.png",
+    "static/media/2.png": "/FollegePublicWebApp/static/media/2.ad0dfc1a.png",
+    "static/media/3.png": "/FollegePublicWebApp/static/media/3.de030ff2.png",
+    "static/media/Image.png": "/FollegePublicWebApp/static/media/Image.578c30e5.png",
+    "static/media/collegeLife.png": "/FollegePublicWebApp/static/media/collegeLife.b394defb.png",
+    "static/media/lgn.png": "/FollegePublicWebApp/static/media/lgn.f00b8c0a.png",
+    "static/media/phonefinal.png": "/FollegePublicWebApp/static/media/phonefinal.00bb2738.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d7e28aef.js",
+    "static/js/2.8fd0ac2b.chunk.js",
+    "static/js/app.1c001bcd.chunk.js"
+  ]
+}
